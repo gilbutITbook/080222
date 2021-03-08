@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+account_id = input('What is your ID? ')
+email = input('What is your email address? ')
+print(name)
+print(account_id)
+print(email)

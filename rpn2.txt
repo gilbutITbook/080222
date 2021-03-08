@@ -1,0 +1,4 @@
+side1 30 =
+side2 40 =
+sum side1 side1 * side2 side2 *+ =
+sum 0.5 ^
